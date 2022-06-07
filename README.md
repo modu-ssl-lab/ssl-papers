@@ -3,8 +3,8 @@
 |주차|내용|논문 발표|코드 발표|발표 자료|코드 자료|
 |-|-|-|-|-|-|
 |1|킥오프 미팅|||||
-|2|Distilling the Knowledge in a Neural network|[황중원](paper/Distilling_the_Knowledge_in_a_Neural_Network.pdf)||||
-|3|DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter|[김재화]()|||
+|2|Distilling the Knowledge in a Neural network|[황중원](https://github.com/modu-ssl-lab/ssl-papers/blob/main/paper/Distilling_the_Knowledge_in_a_Neural_Network.pdf)||||
+|3|DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter|[김재화]()||||
 |4|CPC v1: Representation Learning with Contrastive Predictive Coding|[김효실]()|[이규민]()|||
 |5|MoCo v1: Momentum Contrast for Unsupervised Visual Representation Learning|[김효실]()||||
 |6|SimCLR: A Simple Framework for Contrastive Learning of Visual Representations|[조현우]()|[조현우]()|||
