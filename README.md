@@ -9,7 +9,7 @@
 |5|MoCo v1: Momentum Contrast for Unsupervised Visual Representation Learning|[고우영]()|[고우영]()|[링크](https://github.com/modu-ssl-lab/ssl-papers/issues/7)|[링크](https://github.com/modu-ssl-lab/ssl-papers/issues/8)|
 |6|SimCLR: A Simple Framework for Contrastive Learning of Visual Representations|[조현우]()|[조현우]()|||
 |7|MoCo v2, SimCLR v2||[하창완]()|||
-|8|Bootstrap your own latent: A new approach to self-supervised Learning|[조원양]()|[최석웅]()|||
+|8|Bootstrap your own latent: A new approach to self-supervised Learning|[조원양]()|[최석웅]()|[링크](https://github.com/modu-ssl-lab/ssl-papers/issues/9)||
 |9|Vision Transformer|[이정우]()|[김동욱]()|||
 |10|CLIP: Contrastive Language-Image Pre-training|[김영범]()|[박정현]()|||
 |11|Data2Vec|[손소윤]()|[이규민]()|||
