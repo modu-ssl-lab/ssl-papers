@@ -12,5 +12,5 @@
 |8|Bootstrap your own latent: A new approach to self-supervised Learning|[조원양]()|[최석웅]()|[링크](https://github.com/modu-ssl-lab/ssl-papers/issues/9)||
 |9|Vision Transformer|[이정우]()|[김동욱]()|||
 |10|CLIP: Contrastive Language-Image Pre-training|[김영범]()|[박정현]()|||
-|11|Data2Vec|[손소연](https://github.com/soyounson)|[이규민]()|||
+|11|Data2Vec|[손소연](https://github.com/soyounson)|[이규민]()|[링크](https://soyounson.github.io/Data2vec/)||
 |12|회고 및 논문 주제 확정|||||
